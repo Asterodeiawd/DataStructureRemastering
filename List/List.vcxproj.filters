@@ -23,5 +23,8 @@
     <ClInclude Include="ForwardList.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="List.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
